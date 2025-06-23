@@ -219,10 +219,9 @@ This ensured all preprocessing (scaling, balancing, fitting) was consistently ap
 
 ## 📁 Repository Structure
 
-* `/notebooks/`: Exploratory data analysis, feature engineering
-* `/models/`: Trained models, tuning scripts
-* `/data/`: Input CSVs, transformed datasets
-* `/results/`: Evaluation metrics, confusion matrices, plots
+* `/classifiers/`: Exploratory data analysis, feature engineering, Trained models, tuning scripts
+* `/datasets/`: Input CSVs, transformed datasets
+* `/reports/`: Detailed reports recording progress
 
 ---
 
